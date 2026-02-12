@@ -1,1 +1,30 @@
-# saengsajjinjhoo-ExistentialEngineering-handbook
+# 생사진주(生死眞主) v1.0.0 : 실존 공학 핸드북
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![License](https://img.shields.io/badge/license-CC--BY--NC--SA-red)
+![System](https://img.shields.io/badge/system-Existential__Engineering-orange)
+
+> **"당신은 사용자(User)입니까, 관리자(Admin)입니까?"**
+>
+> 삶과 죽음이라는 거대한 시스템의 루트 권한(Root Authority)을 탈환하여,
+> 스스로 창조자가 되는 법을 다루는 **실존 공학(Existential Engineering) 매뉴얼**입니다.
+
+---
+
+## 🛠 프로젝트 소개 (Project Description)
+
+이 저장소는 모호한 위로와 공감 대신, **철저한 공학적 접근(Engineering Approach)**으로 인생의 버그를 수정(Debug)하고 시스템을 최적화(Optimize)하는 소스코드를 담고 있습니다.
+
+기존의 자기계발서가 '노력'과 '긍정'을 강요했다면, 이 핸드북은 **'구조'**와 **'설계'**를 이야기합니다.
+감정은 데이터일 뿐이며, 의지는 배터리에 불과합니다. 시스템을 이해하고 해킹하십시오.
+
+## 📂 파일 구성 (File Structure)
+
+* **`Saengsa_Jinju_Manual.md`**: 핸드북의 전체 텍스트가 담긴 단일 소스 파일입니다. (Full Text)
+* **`LICENSE`**: 저작권 및 이용 허락 관련 문서입니다.
+
+## 🚀 설치 및 실행 (Installation & Run)
+
+이 철학은 오픈소스입니다. 당신의 삶에 적용(Fork)하고 수정(Modify)하십시오.
+
