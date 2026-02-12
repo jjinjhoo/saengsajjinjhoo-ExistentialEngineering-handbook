@@ -13,15 +13,26 @@ LICENSE (저작권 및 이용 허락)
    - 변경: 리믹스, 변형, 2차 저작물을 작성할 수 있습니다.
 
 2. 당신이 지켜야 할 조건:
-   - 저작자 표시 (Attribution): 반드시 저작자 '진주(Jinju)'의 이름을 명시해야 합니다.
-   - 비영리 (NonCommercial): 이 저작물을 영리 목적(상업적 판매, 유료 강의 등)으로 이용할 수 없습니다. 상업적 이용을 원할 경우, 저작자의 별도 허락을 받아야 합니다.
+   - 저작자 표시 (Attribution): 반드시 저작자 '진주(jjinjhoo)'의 이름을 명시해야 합니다. 출처를 본 github repository의 url로 밝혀야 합니다.
+   - 비영리 (NonCommercial): 이 저작물을 영리 목적(상업적 판매, 유료 강의 등)으로 이용할 수 없습니다. 상업적 이용을 원할 경우, 저작자의 별도 허락을 받아야 합니다. (이 레포지토리에 이슈로 등록함으로써 저자와 소통합니다.)
    - 동일조건 변경허락 (ShareAlike): 이 저작물을 이용하여 새로운 저작물(수정, 변형)을 만든 경우, 그 결과물에도 이 원본과 동일한 라이선스(CC BY-NC-SA 4.0)를 적용해야 합니다.
 
 
 [English Summary]
 ========================================================================
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+You are free to use this work under the following conditions:
 
-By exercising the Licensed Rights, You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
+1. You are free to:
+   - Share: copy and redistribute the material in any medium or format.
+   - Adapt: remix, transform, and build upon the material.
 
-1. Attribution: You must give appropriate credit to the author (
+2. Under the following terms:
+   - Attribution: You must give appropriate credit to the author 'Jinju (jjinjhoo)' and identify the source with the URL of this GitHub repository.
+   - NonCommercial: You may not use the material for commercial purposes (commercial sales, paid lectures, etc.). If you wish to use it commercially, you must obtain separate permission from the author. (Please communicate with the author by opening an issue in this repository.)
+   - ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original (CC BY-NC-SA 4.0).
+
+
+[Full Legal Code]
+========================================================================
+To view the full legal code of this license, visit:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
