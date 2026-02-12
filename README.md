@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC--BY--NC--SA-red)
 ![System](https://img.shields.io/badge/system-Existential__Engineering-orange)
 
-> **"당신은 사용자(User)입니까, 관리자(Admin)입니까?"**
+> **"당신은 사용자(user)입니까, 관리자(root)입니까?"**
 >
 > 삶과 죽음이라는 거대한 시스템의 루트 권한(Root Authority)을 탈환하여,
 > 스스로 창조자가 되는 법을 다루는 **실존 공학(Existential Engineering) 매뉴얼**입니다.
