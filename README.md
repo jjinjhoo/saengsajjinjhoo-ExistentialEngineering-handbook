@@ -1,4 +1,4 @@
-# 생사진주(生死眞主) : 실존 공학 핸드북
+# 실존 공학 핸드북 Existential Engineering Handbook
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
