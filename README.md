@@ -21,7 +21,7 @@
 
 ## 📂 파일 구성 (File Structure)
 
-* **`saengsajjinjhoo-ExistentialEngineering-handbook.md`**: 핸드북의 전체 텍스트가 담긴 단일 소스 파일입니다. (Full Text)
+* **`ExistentialEngineering-handbook.md`**: 핸드북의 전체 텍스트가 담긴 단일 소스 파일입니다. (Full Text)
 * **`LICENSE`**: 저작권 및 이용 허락 관련 문서입니다.
 
 ## 🚀 설치 및 실행 (Installation & Run)
