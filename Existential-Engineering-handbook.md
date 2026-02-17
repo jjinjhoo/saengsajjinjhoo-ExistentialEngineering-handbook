@@ -1117,4 +1117,4 @@ Login: root (진정한 주인)
 
 
 # **\[부록\] "사람은 왜 사는가?"로 시작한 구글AI(Deep Think)와의 대화**
-[additional-whyhumanlive.md]
+[additional-whyhumanlive.md|https://github.com/jjinjhoo/ExistentialEngineering-handbook/blob/main/additional-whyhumanlive.md]
