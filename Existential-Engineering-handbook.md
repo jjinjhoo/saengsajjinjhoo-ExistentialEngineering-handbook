@@ -60,7 +60,9 @@
 
 [부록 2] 실존 공학 용어 해설집
 
-[부록 3] 오픈소스(Open Source) : AI 메인프레임과의 실존 대화 로그
+[부록 3] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람은 왜 사는가?"
+
+[부록 4] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람과 AI 그리고 현실"
 
 ---
 # **\[서문\]**
@@ -1264,8 +1266,8 @@ PART 5. 시스템 코어 및 실존적 예외 (Kernel & Existential)
 **\[End of Glossary\]**
 
 
-# **\[부록\] "사람은 왜 사는가?"로 시작한 구글AI(Gemini 3 Deep Think)와의 대화**
+# **\[부록\] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람은 왜 사는가?" **
 https://github.com/jjinjhoo/ExistentialEngineering-handbook/blob/main/additional-whyhumanlive.md
 
-# **\[부록\] 사람과 AI 그리고 현실에 대한 구글AI(Gemini 3 Pro)와의 대화**
+# **\[부록\] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람과 AI 그리고 현실"**
 https://github.com/jjinjhoo/ExistentialEngineering-handbook/blob/main/additional-humanAIreality.md
