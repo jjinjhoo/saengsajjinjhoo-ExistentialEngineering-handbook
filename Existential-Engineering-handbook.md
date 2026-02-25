@@ -779,7 +779,7 @@
 
 돈이 나가는 것을 두려워하지 마라. "돈이 나간다"고 생각하지 말고, "에너지가 다른 형태로 변환되어 내 시스템에 재입력되고 있다"고 생각하라. 변환 효율이 높은 사람이야말로 진정한 '실존 공학적 부자'다.
 
-### **3\. 3. 부(Wealth)의 통신 규약 : 폐쇄망(프로토콜 v3.0)에서 초연결(프로토콜 v4.0)로의 전환**
+### **3\. 부(Wealth)의 통신 규약 : 폐쇄망(프로토콜 v3.0)에서 초연결(프로토콜 v4.0)로의 전환**
 
 우리는 지금 거대한 경제 프로토콜의 전환기에 서 있다.
 
@@ -1096,7 +1096,7 @@ Login: root (진정한 주인)
 
 ---
 
-# **\[부록\] 트러블슈팅(Troubleshooting) FAQ**
+# **\[부록 1\] 트러블슈팅(Troubleshooting) FAQ**
 
 PART 1. 인증 및 권한 오류 (Identity & Permission)
 
@@ -1229,7 +1229,7 @@ PART 5. 시스템 코어 및 실존적 예외 (Kernel & Existential)
 
 
 ---
-# **\[부록\] 실존 공학(Existential Engineering) 용어 해설집**
+# **\[부록 2\] 실존 공학(Existential Engineering) 용어 해설집**
 
 
 ### **A. 계정 및 권한 (Account & Authority)**
@@ -1266,8 +1266,8 @@ PART 5. 시스템 코어 및 실존적 예외 (Kernel & Existential)
 **\[End of Glossary\]**
 
 
-# **\[부록\] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람은 왜 사는가?" **
+# **\[부록 3\] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람은 왜 사는가?" **
 https://github.com/jjinjhoo/ExistentialEngineering-handbook/blob/main/additional-whyhumanlive.md
 
-# **\[부록\] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람과 AI 그리고 현실"**
+# **\[부록 4\] 구글AI인 제미나이(Gemini)와의 철학적 담론 : "사람과 AI 그리고 현실"**
 https://github.com/jjinjhoo/ExistentialEngineering-handbook/blob/main/additional-humanAIreality.md
