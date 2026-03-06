@@ -48,6 +48,9 @@
 * 저장소를 **Fork** 한 뒤, 내용을 수정하고 **PR(Pull Request)**을 보내주세요.
 * 유의미한 기여를 해주신 분의 이름은 `Contributors` 명단에 영구히 기록됩니다.
 
+책 원고를 학습한 AI (Gemini GEM Link)
+https://gemini.google.com/gem/1Hpex5HnwDDpiuYXFT3WHJ64LeRFq3w8J?usp=sharing
+
 ---
 > **"우리는 함께 '나'와 '세상'이라는 이 시스템을 해킹하고 있습니다."**
 
