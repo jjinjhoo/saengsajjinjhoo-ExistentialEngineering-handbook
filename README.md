@@ -78,5 +78,6 @@ System Hacked. Welcome to the Real World.
 USDC 코인으로 입금
 사용 네트워크 : 이더리움 (Ethereum)
 지갑주소 : 0xa1d001f70db5b419bbd38f65e2c41b404bb96fdd
-<img width="750" height="733" alt="USDC_wallet_QR" src="https://github.com/user-attachments/assets/26bc9cf4-ac77-4acf-8d17-69eb679f1f88" />
+
+<img width="200" height="200" alt="USDC_wallet_QR" src="https://github.com/user-attachments/assets/26bc9cf4-ac77-4acf-8d17-69eb679f1f88" />
 
