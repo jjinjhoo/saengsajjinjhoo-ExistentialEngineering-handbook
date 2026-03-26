@@ -830,7 +830,6 @@ Open the dam's sluice gate. Do not be anxious; let the energy flow. Even if it's
 **Money knows its master.** It runs away from the one who clutches it (user) and returns with friends to the one who lets it flow (administrator). This is the **law of physics** for the energy called money.
 
 ---
-```markdown
 # PART Ⅵ. Creation (創造) : The Architect of Existence
 
 ---
@@ -1036,7 +1035,6 @@ Now, declare it. With the voice from your deepest abyss, with the most solid eng
 
 
 ---
-```
 # [Epilogue] System Reboot
 : Concluding v1.0.0, for the sake of your own v2.0.0
 
